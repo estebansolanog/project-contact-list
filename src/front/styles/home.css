@@ -5,3 +5,15 @@
     one more css for each page that will contain the selected used 
     on that page only (the ones not reused in other pages).
 */
+#profile-pic {
+  height: 150px;
+  width: 150px;
+  margin-left: 25px;
+}
+
+#bnt-swap-addContact:link {
+  text-decoration: none;
+}
+#add-cont {
+  width: 770px;
+}
